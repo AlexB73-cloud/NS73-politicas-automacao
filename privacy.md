@@ -1,1 +1,0 @@
-Privacy Policy for NS73MixAutomation This application is a personal automation tool used solely by the owner to manage content on Instagram and TikTok. We do not collect, store, or share any personal data from third-party users. The only data accessed is the content provided by the owner via Amazon S3 for the purpose of automated posting.
