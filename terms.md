@@ -1,1 +1,0 @@
-Terms of Service This application is provided "as is" for personal use. The owner agrees to comply with all Meta and TikTok developer policies. No public access is provided to this application.
